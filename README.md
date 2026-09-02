@@ -21,7 +21,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/samrajukeshab/samrajukeshab/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/samrajukeshab/samrajukeshab/output/github-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
